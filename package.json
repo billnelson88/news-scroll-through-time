@@ -1,6 +1,5 @@
 {
   "name": "news-scroll-through-time",
-  "master": "./lib/scroll-through-time",
   "version": "1.0.0",
   "description": "Two fingers scroll moves through time instead of space",
   "keywords": [
@@ -9,7 +8,7 @@
     "space",
     "xkcd"
   ],
-  "repository": "https://github.com/billnelson88/testing",
+  "repository": "https://github.com/billnelson88/news-scroll-through-time",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
